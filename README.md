@@ -1,7 +1,8 @@
 # Stock-performance-comparison
 
 # Python for Stock Trading and Investment
-
+## Live Project Link:
+https://nandhakumar-it20-stock-performance-comparison.streamlit.app/
 ### List of different types of analyzing stocks and trading strategies
 
 Stock analysis is a method for investors to use (short or long term) and to make buying and selling decisions. By studying and evaluating the past and current historical data, fundamental data or news, investors and traders attempt to gain an winning edge in the markets by making the best decisions. :chart_with_upwards_trend: :chart_with_downwards_trend:  
